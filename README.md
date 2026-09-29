@@ -25,6 +25,7 @@ This project is part of the 1-month Data Analytics Internship at **CodeAlpha**. 
 - `ecommerce_eda_visualizations.png` : High-resolution exported EDA charts.
 
 ## Visual Insights
+<img width="5400" height="1500" alt="ecommerce_eda_visualizations" src="https://github.com/user-attachments/assets/b0480f00-c780-4006-ae1b-dacb0bfde1a5" />
 ![EDA Visualizations](ecommerce_eda_visualizations.png)
 
 ## Tools & Libraries Used
